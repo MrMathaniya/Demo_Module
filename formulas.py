@@ -28,3 +28,11 @@ def area_of_rectangle(a,b):
 def area_of_square(a):
     return a*a
 
+''' To use the module make sure the file is in the same folder
+  import formulas 
+  or
+  from formulas import *
+
+'''
+
+
